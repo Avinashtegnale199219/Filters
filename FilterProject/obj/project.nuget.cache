@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M/rVlG0SpY8=",
+  "success": true,
+  "projectFilePath": "D:\\Filter\\FilterProject\\FilterProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avinash\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
